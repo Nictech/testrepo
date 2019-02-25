@@ -1,6 +1,6 @@
 <?php
 /**
- * Monochrome Pro.
+ * Monochrome Pro. test repo
  *
  * This file adds the single post template to the Monochrome Pro Theme.
  *
