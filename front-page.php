@@ -1,6 +1,6 @@
 <?php
 /**
- * Monochrome Pro.
+ * Monochrome Pro. on test repo
  *
  * This file adds functions to the Monochrome Pro Theme.
  *
